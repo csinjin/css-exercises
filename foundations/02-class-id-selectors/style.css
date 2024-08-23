@@ -2,3 +2,8 @@ p {
     background-color: rgba(245, 66, 75, 0.5);
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
